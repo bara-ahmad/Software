@@ -1,0 +1,8 @@
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.AssemblyInfoInputs.cache
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.AssemblyInfo.cs
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.csproj.CoreCompileInputs.cache
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.RazorAssemblyInfo.cache
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.RazorAssemblyInfo.cs
+D:\four year 4\الفصل اثاني\هندسة 2\عملي\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.sourcelink.json
